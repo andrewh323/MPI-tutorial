@@ -1,0 +1,4 @@
+﻿  MPI_Collectives.c
+C:\Users\18ah11\Documents\CodeStuff\C_Stuff\MPI_Tutorial\MPI_Collectives\MPI_Collectives\MPI_Collectives.c(35,14): warning C4101: 'request': unreferenced local variable
+C:\Users\18ah11\Documents\CodeStuff\C_Stuff\MPI_Tutorial\MPI_Collectives\MPI_Collectives\MPI_Collectives.c(34,13): warning C4101: 'status': unreferenced local variable
+  MPI_Collectives.vcxproj -> C:\Users\18ah11\Documents\CodeStuff\C_Stuff\MPI_Tutorial\MPI_Collectives\x64\Debug\MPI_Collectives.exe
